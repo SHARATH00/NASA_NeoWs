@@ -1,6 +1,5 @@
 --DDL to create the tables for the NASA's NeoWs data
---I split the data into two tables where one has the details of the Asteroid and 
---the other one has Close Approach data
+--Split the data into two tables where one has the details of the Asteroid and the other one has Close Approach data
 
 CREATE TABLE IF NOT EXISTS asteroids (
     id TEXT PRIMARY KEY,
