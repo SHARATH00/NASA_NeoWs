@@ -1,6 +1,8 @@
 --DDL to create the tables for the NASA's NeoWs data
 --Split the data into two tables where one has the details of the Asteroid and the other one has Close Approach data
 
+-- Create asteroids table
+
 CREATE TABLE IF NOT EXISTS asteroids (
     id TEXT PRIMARY KEY,
     name TEXT,
@@ -37,6 +39,8 @@ CREATE TABLE IF NOT EXISTS asteroids (
     orbit_class_range TEXT,
     is_sentry_object BOOLEAN
 );
+
+--create a close approach data table
 
 CREATE TABLE IF NOT EXISTS close_approach_data (
     id SERIAL PRIMARY KEY,
