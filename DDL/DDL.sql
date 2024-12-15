@@ -3,7 +3,7 @@
 
 -- Create asteroids table
 
-CREATE TABLE IF NOT EXISTS asteroids (
+CREATE TABLE IF NOT EXISTS neo_data.asteroids (
     id TEXT PRIMARY KEY,
     name TEXT,
     neo_reference_id TEXT,
@@ -42,9 +42,9 @@ CREATE TABLE IF NOT EXISTS asteroids (
 
 --create a close approach data table
 
-CREATE TABLE IF NOT EXISTS close_approach_data (
+CREATE TABLE IF NOT EXISTS neo_data.close_approach_data (
     id SERIAL PRIMARY KEY,
-    asteroid_id TEXT REFERENCES asteroids(id),
+    asteroid_id TEXT REFERENCES neo_data.asteroids(id),
     close_approach_date TEXT,
     close_approach_date_full TEXT,
     epoch_date_close_approach BIGINT,
