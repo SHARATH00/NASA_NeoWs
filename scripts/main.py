@@ -1,5 +1,5 @@
 # main.py
-from fetch_data import fetch_neo_data
+from fetch_data import fetch_all_neo_data
 from database import connect_db, upsert_data
 from data_checks import validate_api_response
 from logger import logger
@@ -7,7 +7,7 @@ from logger import logger
 def main():
     try:
         # Fetch data
-        data = fetch_neo_data()
+        data = fetch_all_neo_data()
         validate_api_response(data)
 
         # Process data
@@ -28,7 +28,7 @@ def main():
 
         # Save to database
         conn = connect_db()
-        upsert_data(conn, asteroids, close_approaches)
+       # upsert_data(conn, asteroids, close_approaches)
         conn.close()
         logger.info("Pipeline completed successfully.")
 
