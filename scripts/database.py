@@ -1,15 +1,19 @@
-# database.py
-import psycopg2
-from psycopg2.extras import execute_values
+import pg8000
 from config import DB_CONFIG
 from logger import logger
 
 def connect_db():
     """
-    Establish a connection to the PostgreSQL database.
+    Establish a connection to the PostgreSQL database using pg8000.
     """
     try:
-        conn = psycopg2.connect(**DB_CONFIG)
+        conn = pg8000.connect(
+            database=DB_CONFIG['dbname'],
+            user=DB_CONFIG['user'],
+            password=DB_CONFIG['password'],
+            host=DB_CONFIG['host'],
+            port=DB_CONFIG['port']
+        )
         logger.info("Database connection established.")
         return conn
     except Exception as e:
@@ -18,7 +22,7 @@ def connect_db():
 
 def upsert_data(conn, asteroid_data, close_approach_data):
     """
-    Inserts or updates asteroid and close approach data.
+    Inserts or updates asteroid and close approach data using pg8000.
     """
     with conn.cursor() as cur:
         # Insert Asteroid Data
@@ -66,7 +70,7 @@ def upsert_data(conn, asteroid_data, close_approach_data):
         orbit_class_range = EXCLUDED.orbit_class_range,
         is_sentry_object = EXCLUDED.is_sentry_object;
         '''
-        execute_values(cur, asteroid_query, asteroid_data)
+        cur.executemany(asteroid_query, asteroid_data)
 
         # Insert Close Approach Data
         close_approach_query = '''
@@ -86,7 +90,7 @@ def upsert_data(conn, asteroid_data, close_approach_data):
         miss_distance_miles = EXCLUDED.miss_distance_miles,
         orbiting_body = EXCLUDED.orbiting_body; 
         '''
-        execute_values(cur, close_approach_query, close_approach_data)
+        cur.executemany(close_approach_query, close_approach_data)
 
     conn.commit()
     logger.info("Data upserted successfully.")
