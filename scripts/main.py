@@ -8,15 +8,15 @@ def main():
     try:
         # Fetch data
         data = fetch_all_neo_data()
-        validate_api_response(data)
+       # validate_api_response(data)
 
         # Process data
         asteroids = []
         close_approaches = []
-        for objects in data['near_earth_objects'].values():
+        for objects in data:
             for obj in objects:
                 # Process asteroid data (example logic)
-                asteroid = (
+                asteroid = ( 
                     obj['id'], obj['name'], obj['neo_reference_id'], obj['absolute_magnitude_h']
                 )
                 asteroids.append(asteroid)
