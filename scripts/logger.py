@@ -1,6 +1,6 @@
 import logging
 
-def setup_logger():
+def logger():
     logging.basicConfig(
         filename="logs/pipeline.log",
         filemode="a",
