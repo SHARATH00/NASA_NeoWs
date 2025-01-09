@@ -2,12 +2,12 @@ import requests
 import logging
 from config import API_KEY
 
-#BASE_URL = "https://api.nasa.gov/neo/rest/v1/neo/browse"
-BASE_URL = "https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08"
+BASE_URL = "https://api.nasa.gov/neo/rest/v1/neo/browse"
+#BASE_URL = "https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08"
 
 def fetch_all_neo_data():
     logger = logging.getLogger()
-    url = f"{BASE_URL}&api_key={API_KEY}"
+    url = f"{BASE_URL}?api_key={API_KEY}"
     all_data = []  # List to store all results
 
    # while url:
