@@ -13,8 +13,8 @@ def main():
         # Process data
         asteroids = []
         close_approaches = []
-        for objects in data:
-            for obj in objects:
+        for obj in data:
+            #for obj in objects:
                 # Process asteroid data (example logic)
                 asteroid = ( 
                     obj['id'], obj['name'], obj['neo_reference_id'], obj['absolute_magnitude_h']
@@ -28,7 +28,7 @@ def main():
 
         # Save to database
         conn = connect_db()
-       # upsert_data(conn, asteroids, close_approaches)
+        upsert_data(conn, asteroids, close_approaches)
         conn.close()
         logger.info("Pipeline completed successfully.")
 
