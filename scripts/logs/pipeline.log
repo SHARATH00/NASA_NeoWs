@@ -1,6 +1,6 @@
-2025-01-08 21:55:54,753 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=1&size=20&api_key=rZdWnOoHPW8pDk4G8WIvkkvrHMlTz2OfD0YaSHQj
 2025-01-08 21:56:07,521 - INFO - Database connection established.
 2025-01-08 21:56:36,791 - ERROR - Pipeline failed: {'S': 'ERROR', 'V': 'ERROR', 'C': '42601', 'M': 'syntax error at or near "$1"', 'P': '757', 'F': 'scan.l', 'L': '1248', 'R': 'scanner_yyerror'}
-2025-01-08 22:02:59,689 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=1&size=20&api_key=rZdWnOoHPW8pDk4G8WIvkkvrHMlTz2OfD0YaSHQj
 2025-01-08 22:03:05,393 - INFO - Database connection established.
 2025-01-08 22:03:48,427 - ERROR - Pipeline failed: {'S': 'ERROR', 'V': 'ERROR', 'C': '42601', 'M': 'syntax error at or near "$1"', 'P': '757', 'F': 'scan.l', 'L': '1248', 'R': 'scanner_yyerror'}
+2025-01-10 09:49:22,637 - INFO - Database connection established.
+2025-01-10 09:49:36,848 - ERROR - Pipeline failed: {'S': 'ERROR', 'V': 'ERROR', 'C': '42P01', 'M': 'relation "asteroids" does not exist', 'P': '22', 'F': 'parse_relation.c', 'L': '1452', 'R': 'parserOpenTable'}

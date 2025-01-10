@@ -27,7 +27,7 @@ def upsert_data(conn, asteroid_data, close_approach_data):
     with conn.cursor() as cur:
         # Insert Asteroid Data
         asteroid_query = '''
-        INSERT INTO asteroids (id, name, neo_reference_id, absolute_magnitude_h, estimated_diameter_min_km,
+        INSERT INTO neo_data.asteroids (id, name, neo_reference_id, absolute_magnitude_h, estimated_diameter_min_km,
         estimated_diameter_max_km, estimated_diameter_mean_km, is_potentially_hazardous_asteroid, orbit_id,
         orbit_determination_date, first_observation_date, last_observation_date, data_arc_in_days, observations_used,
         orbit_uncertainty, minimum_orbit_intersection, jupiter_tisserand_invariant, epoch_osculation, eccentricity,
@@ -74,7 +74,7 @@ def upsert_data(conn, asteroid_data, close_approach_data):
 
         # Insert Close Approach Data
         close_approach_query = '''
-        INSERT INTO close_approach_data (asteroid_id, close_approach_date, close_approach_date_full, epoch_date_close_approach,
+        INSERT INTO neo_data.close_approach_data (asteroid_id, close_approach_date, close_approach_date_full, epoch_date_close_approach,
         relative_velocity_kps, relative_velocity_kph, relative_velocity_mph, miss_distance_au, miss_distance_lunar,
         miss_distance_km, miss_distance_miles, orbiting_body)
         VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
