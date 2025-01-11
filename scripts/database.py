@@ -34,7 +34,7 @@ def upsert_data(conn, asteroid_data, close_approach_data):
         semi_major_axis, inclination, ascending_node_longitude, orbital_period, perihelion_distance, perihelion_argument,
         aphelion_distance, perihelion_time, mean_anomaly, mean_motion, equinox, orbit_class_type, orbit_class_description,
         orbit_class_range, is_sentry_object)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         ON CONFLICT (id) DO UPDATE SET
         name = EXCLUDED.name,
         neo_reference_id = EXCLUDED.neo_reference_id,
@@ -74,12 +74,12 @@ def upsert_data(conn, asteroid_data, close_approach_data):
 
         # Insert Close Approach Data
         close_approach_query = '''
-        INSERT INTO neo_data.close_approach_data (asteroid_id, close_approach_date, close_approach_date_full, epoch_date_close_approach,
+        INSERT INTO neo_data.close_approach_data (asteroid_id, close_approach_date_full, close_approach_date, epoch_date_close_approach,
         relative_velocity_kps, relative_velocity_kph, relative_velocity_mph, miss_distance_au, miss_distance_lunar,
         miss_distance_km, miss_distance_miles, orbiting_body)
         VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-        ON CONFLICT (asteroid_id, close_approach_date) DO UPDATE SET
-        close_approach_date_full = EXCLUDED.close_approach_date_full,
+        ON CONFLICT (asteroid_id, close_approach_date_full) DO UPDATE SET
+        close_approach_date = EXCLUDED.close_approach_date,
         epoch_date_close_approach = EXCLUDED.epoch_date_close_approach,
         relative_velocity_kps = EXCLUDED.relative_velocity_kps,
         relative_velocity_kph = EXCLUDED.relative_velocity_kph,
