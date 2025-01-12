@@ -15,6 +15,12 @@ def fetch_all_neo_data():
             response = requests.get(url)
             response.raise_for_status()  # Raise an exception for HTTP errors
             data = response.json()
+
+            # Check if near_earth_objects is not empty
+            if not data.get('near_earth_objects'):
+                logger.info("No more near earth objects to fetch.")
+                break
+            
             all_data.extend(data['near_earth_objects'])  # Append the current page's data
             url = data.get('links', {}).get('next')  # Move to the next page if available
             # Log the current URL without the API key

@@ -30,603 +30,6 @@
 2025-01-10 23:45:04,469 - WARNING - Invalid date format: 1907-Nov-05 03:31
 2025-01-10 23:45:05,735 - WARNING - Invalid date format: 1917-Apr-20 21:19
 2025-01-10 23:45:06,969 - WARNING - Invalid date format: 1924-Mar-05 22:13
-2025-01-10 23:45:09,743 - WARNING - Invalid date format: 1931-Jan-30 04:07
-2025-01-10 23:45:09,745 - WARNING - Invalid date format: 1938-Jan-13 22:04
-2025-01-10 23:45:09,746 - WARNING - Invalid date format: 1944-Nov-27 01:41
-2025-01-10 23:45:09,746 - WARNING - Invalid date format: 1961-Apr-04 09:08
-2025-01-10 23:45:09,747 - WARNING - Invalid date format: 1968-Feb-11 13:46
-2025-01-10 23:45:09,748 - WARNING - Invalid date format: 1975-Jan-23 07:39
-2025-01-10 23:45:09,748 - WARNING - Invalid date format: 1981-Dec-29 08:05
-2025-01-10 23:45:09,749 - WARNING - Invalid date format: 1988-Nov-06 14:56
-2025-01-10 23:45:09,749 - WARNING - Invalid date format: 2005-Mar-08 22:07
-2025-01-10 23:45:09,749 - WARNING - Invalid date format: 2012-Jan-31 11:01
-2025-01-10 23:45:09,750 - WARNING - Invalid date format: 2019-Jan-15 06:01
-2025-01-10 23:45:09,750 - WARNING - Invalid date format: 2025-Nov-30 02:18
-2025-01-10 23:45:09,751 - WARNING - Invalid date format: 2042-Apr-06 19:02
-2025-01-10 23:45:09,751 - WARNING - Invalid date format: 2049-Feb-12 05:38
-2025-01-10 23:45:09,751 - WARNING - Invalid date format: 2056-Jan-24 11:03
-2025-01-10 23:45:09,751 - WARNING - Invalid date format: 2062-Dec-31 08:25
-2025-01-10 23:45:09,756 - WARNING - Invalid date format: 2069-Nov-08 21:29
-2025-01-10 23:45:09,756 - WARNING - Invalid date format: 2086-Mar-11 22:55
-2025-01-10 23:45:09,757 - WARNING - Invalid date format: 2093-Jan-31 15:47
-2025-01-10 23:45:09,757 - WARNING - Invalid date format: 2100-Jan-16 11:39
-2025-01-10 23:45:09,757 - WARNING - Invalid date format: 2106-Dec-04 02:22
-2025-01-10 23:45:09,758 - WARNING - Invalid date format: 2123-Apr-10 05:51
-2025-01-10 23:45:09,758 - WARNING - Invalid date format: 2130-Feb-14 22:11
-2025-01-10 23:45:09,759 - WARNING - Invalid date format: 2137-Jan-25 14:12
-2025-01-10 23:45:09,759 - WARNING - Invalid date format: 2144-Jan-03 10:26
-2025-01-10 23:45:09,759 - WARNING - Invalid date format: 2150-Nov-12 07:12
-2025-01-10 23:45:09,759 - WARNING - Invalid date format: 2167-Mar-16 05:30
-2025-01-10 23:45:09,760 - WARNING - Invalid date format: 2174-Feb-03 01:30
-2025-01-10 23:45:09,760 - WARNING - Invalid date format: 2181-Jan-17 20:55
-2025-01-10 23:45:09,760 - WARNING - Invalid date format: 2187-Dec-06 23:28
-2025-01-10 23:45:09,762 - WARNING - Invalid date format: 1909-Aug-21 15:04
-2025-01-10 23:45:09,762 - WARNING - Invalid date format: 1956-Sep-12 20:20
-2025-01-10 23:45:09,762 - WARNING - Invalid date format: 2003-Oct-26 03:46
-2025-01-10 23:45:09,763 - WARNING - Invalid date format: 2050-Nov-15 11:59
-2025-01-10 23:45:09,763 - WARNING - Invalid date format: 2063-Oct-10 19:16
-2025-01-10 23:45:09,763 - WARNING - Invalid date format: 2110-Nov-08 03:30
-2025-01-10 23:45:09,763 - WARNING - Invalid date format: 2157-Dec-03 17:48
-2025-01-10 23:45:09,764 - WARNING - Invalid date format: 2170-Nov-10 05:57
-2025-01-10 23:45:09,764 - WARNING - Invalid date format: 1974-Jan-04 05:00
-2025-01-10 23:45:09,764 - WARNING - Invalid date format: 2025-Jan-08 13:40
-2025-01-10 23:45:09,764 - WARNING - Invalid date format: 2087-Jan-25 21:50
-2025-01-10 23:45:09,765 - WARNING - Invalid date format: 1910-Feb-25 08:36
-2025-01-10 23:45:09,765 - WARNING - Invalid date format: 2040-Jun-30 21:47
-2025-01-10 23:45:09,765 - WARNING - Invalid date format: 2050-Dec-07 07:15
-2025-01-10 23:45:09,765 - WARNING - Invalid date format: 2088-May-12 05:03
-2025-01-10 23:45:09,766 - WARNING - Invalid date format: 2176-Dec-16 13:29
-2025-01-10 23:45:09,766 - WARNING - Invalid date format: 1908-Mar-14 13:14
-2025-01-10 23:45:09,766 - WARNING - Invalid date format: 1916-Mar-17 22:06
-2025-01-10 23:45:09,766 - WARNING - Invalid date format: 1924-Mar-20 12:01
-2025-01-10 23:45:09,767 - WARNING - Invalid date format: 1932-Mar-22 14:22
-2025-01-10 23:45:09,767 - WARNING - Invalid date format: 1940-Mar-22 20:08
-2025-01-10 23:45:09,767 - WARNING - Invalid date format: 1948-Mar-21 19:24
-2025-01-10 23:45:09,767 - WARNING - Invalid date format: 1956-Mar-21 06:18
-2025-01-10 23:45:09,767 - WARNING - Invalid date format: 1964-Mar-19 02:54
-2025-01-10 23:45:09,768 - WARNING - Invalid date format: 1972-Mar-14 08:55
-2025-01-10 23:45:09,768 - WARNING - Invalid date format: 2089-Apr-07 05:21
-2025-01-10 23:45:09,768 - WARNING - Invalid date format: 2097-Mar-31 04:55
-2025-01-10 23:45:09,769 - WARNING - Invalid date format: 2105-Mar-28 01:53
-2025-01-10 23:45:09,770 - WARNING - Invalid date format: 2113-Mar-28 03:52
-2025-01-10 23:45:09,770 - WARNING - Invalid date format: 2121-Mar-27 04:22
-2025-01-10 23:45:09,770 - WARNING - Invalid date format: 2129-Mar-25 14:37
-2025-01-10 23:45:09,771 - WARNING - Invalid date format: 2137-Mar-26 08:34
-2025-01-10 23:45:09,771 - WARNING - Invalid date format: 2145-Mar-25 20:33
-2025-01-10 23:45:09,771 - WARNING - Invalid date format: 2153-Mar-23 12:56
-2025-01-10 23:45:09,772 - WARNING - Invalid date format: 2161-Mar-21 21:31
-2025-01-10 23:45:09,772 - WARNING - Invalid date format: 2169-Mar-18 14:05
-2025-01-10 23:45:09,772 - WARNING - Invalid date format: 1902-Jun-11 20:20
-2025-01-10 23:45:09,774 - WARNING - Invalid date format: 1906-Sep-01 21:08
-2025-01-10 23:45:09,774 - WARNING - Invalid date format: 1911-Jun-08 11:07
-2025-01-10 23:45:09,774 - WARNING - Invalid date format: 1912-Jun-26 09:25
-2025-01-10 23:45:09,775 - WARNING - Invalid date format: 1914-Aug-09 15:15
-2025-01-10 23:45:09,775 - WARNING - Invalid date format: 1915-Aug-21 23:01
-2025-01-10 23:45:09,775 - WARNING - Invalid date format: 1921-Jun-15 13:34
-2025-01-10 23:45:09,775 - WARNING - Invalid date format: 1925-Sep-05 01:06
-2025-01-10 23:45:09,776 - WARNING - Invalid date format: 1928-Feb-18 02:03
-2025-01-10 23:45:09,776 - WARNING - Invalid date format: 1930-Jun-08 19:39
-2025-01-10 23:45:09,776 - WARNING - Invalid date format: 1931-Jul-02 22:56
-2025-01-10 23:45:09,776 - WARNING - Invalid date format: 1934-Aug-27 11:44
-2025-01-10 23:45:09,777 - WARNING - Invalid date format: 1939-Jun-10 17:55
-2025-01-10 23:45:09,777 - WARNING - Invalid date format: 1939-Jun-14 01:07
-2025-01-10 23:45:09,777 - WARNING - Invalid date format: 1940-Jun-09 04:40
-2025-01-10 23:45:09,777 - WARNING - Invalid date format: 1940-Jun-20 13:42
-2025-01-10 23:45:09,777 - WARNING - Invalid date format: 1943-Aug-15 15:46
-2025-01-10 23:45:09,778 - WARNING - Invalid date format: 1949-Apr-19 21:19
-2025-01-10 23:45:09,778 - WARNING - Invalid date format: 1949-Jun-11 09:20
-2025-01-10 23:45:09,778 - WARNING - Invalid date format: 1952-Sep-29 07:06
-2025-01-10 23:45:09,778 - WARNING - Invalid date format: 1953-Sep-01 09:15
-2025-01-10 23:45:09,779 - WARNING - Invalid date format: 1958-Jun-08 15:03
-2025-01-10 23:45:09,779 - WARNING - Invalid date format: 1959-Jun-26 14:26
-2025-01-10 23:45:09,779 - WARNING - Invalid date format: 1962-Aug-21 02:43
-2025-01-10 23:45:09,779 - WARNING - Invalid date format: 1965-Jan-19 02:07
-2025-01-10 23:45:09,779 - WARNING - Invalid date format: 1968-Apr-25 13:51
-2025-01-10 23:45:09,780 - WARNING - Invalid date format: 1968-Jun-14 20:39
-2025-01-10 23:45:09,780 - WARNING - Invalid date format: 1972-Sep-04 18:18
-2025-01-10 23:45:09,780 - WARNING - Invalid date format: 1977-May-11 10:27
-2025-01-10 23:45:09,780 - WARNING - Invalid date format: 1977-Jun-08 14:37
-2025-01-10 23:45:09,780 - WARNING - Invalid date format: 1978-Jul-02 02:52
-2025-01-10 23:45:09,781 - WARNING - Invalid date format: 1981-Aug-26 20:57
-2025-01-10 23:45:09,781 - WARNING - Invalid date format: 1986-Jun-11 02:10
-2025-01-10 23:45:09,781 - WARNING - Invalid date format: 1986-Jun-18 23:17
-2025-01-10 23:45:09,781 - WARNING - Invalid date format: 1987-May-05 08:06
-2025-01-10 23:45:09,781 - WARNING - Invalid date format: 1987-Jun-21 00:47
-2025-01-10 23:45:09,782 - WARNING - Invalid date format: 1989-Sep-01 01:33
-2025-01-10 23:45:09,782 - WARNING - Invalid date format: 1990-Aug-15 06:31
-2025-01-10 23:45:09,782 - WARNING - Invalid date format: 1996-Jun-11 07:34
-2025-01-10 23:45:09,782 - WARNING - Invalid date format: 2000-Sep-01 13:10
-2025-01-10 23:45:09,783 - WARNING - Invalid date format: 2005-Jun-08 13:59
-2025-01-10 23:45:09,783 - WARNING - Invalid date format: 2006-Jun-27 01:05
-2025-01-10 23:45:09,783 - WARNING - Invalid date format: 2009-Aug-21 21:05
-2025-01-10 23:45:09,783 - WARNING - Invalid date format: 2015-Jun-16 15:39
-2025-01-10 23:45:09,783 - WARNING - Invalid date format: 2019-Sep-06 10:20
-2025-01-10 23:45:09,784 - WARNING - Invalid date format: 2024-Jun-09 01:25
-2025-01-10 23:45:09,784 - WARNING - Invalid date format: 2025-May-24 15:02
-2025-01-10 23:45:09,784 - WARNING - Invalid date format: 2025-Jul-03 19:20
-2025-01-10 23:45:09,785 - WARNING - Invalid date format: 2028-Aug-28 15:55
-2025-01-10 23:45:09,785 - WARNING - Invalid date format: 2033-Apr-30 16:13
-2025-01-10 23:45:09,786 - WARNING - Invalid date format: 2033-Jun-10 02:51
-2025-01-10 23:45:09,786 - WARNING - Invalid date format: 2034-Jun-22 22:51
-2025-01-10 23:45:09,786 - WARNING - Invalid date format: 2037-Aug-17 13:46
-2025-01-10 23:45:09,786 - WARNING - Invalid date format: 2043-Jun-13 16:57
-2025-01-10 23:45:09,787 - WARNING - Invalid date format: 2044-Jun-04 01:27
-2025-01-10 23:45:09,787 - WARNING - Invalid date format: 2045-Aug-21 08:04
-2025-01-10 23:45:09,787 - WARNING - Invalid date format: 2047-Sep-04 06:05
-2025-01-10 23:45:09,788 - WARNING - Invalid date format: 2052-Jun-08 09:26
-2025-01-10 23:45:09,788 - WARNING - Invalid date format: 2053-Jun-29 00:06
-2025-01-10 23:45:09,788 - WARNING - Invalid date format: 2056-Aug-23 19:39
-2025-01-10 23:45:09,788 - WARNING - Invalid date format: 2057-Dec-11 11:27
-2025-01-10 23:45:09,789 - WARNING - Invalid date format: 2062-Jun-18 01:10
-2025-01-10 23:45:09,789 - WARNING - Invalid date format: 2066-Sep-06 21:29
-2025-01-10 23:45:09,789 - WARNING - Invalid date format: 2070-Apr-02 23:30
-2025-01-10 23:45:09,789 - WARNING - Invalid date format: 2071-Jun-10 12:28
-2025-01-10 23:45:09,789 - WARNING - Invalid date format: 2072-Jul-05 01:07
-2025-01-10 23:45:09,790 - WARNING - Invalid date format: 2074-Nov-13 22:38
-2025-01-10 23:45:09,790 - WARNING - Invalid date format: 2075-Aug-30 18:05
-2025-01-10 23:45:09,790 - WARNING - Invalid date format: 2080-Jun-09 19:05
-2025-01-10 23:45:09,790 - WARNING - Invalid date format: 2081-Jun-23 19:30
-2025-01-10 23:45:09,790 - WARNING - Invalid date format: 2082-Jul-24 17:35
-2025-01-10 23:45:09,790 - WARNING - Invalid date format: 2084-Aug-18 12:56
-2025-01-10 23:45:09,791 - WARNING - Invalid date format: 2090-Jun-14 07:08
-2025-01-10 23:45:09,791 - WARNING - Invalid date format: 2094-Sep-04 21:06
-2025-01-10 23:45:09,791 - WARNING - Invalid date format: 2094-Nov-14 11:57
-2025-01-10 23:45:09,791 - WARNING - Invalid date format: 2099-Jun-09 10:15
-2025-01-10 23:45:09,791 - WARNING - Invalid date format: 2100-Jun-30 20:11
-2025-01-10 23:45:09,791 - WARNING - Invalid date format: 2103-Aug-26 16:18
-2025-01-10 23:45:09,791 - WARNING - Invalid date format: 2109-Jun-19 18:46
-2025-01-10 23:45:09,792 - WARNING - Invalid date format: 2113-Sep-08 01:46
-2025-01-10 23:45:09,792 - WARNING - Invalid date format: 2117-Mar-05 12:12
-2025-01-10 23:45:09,792 - WARNING - Invalid date format: 2118-Jun-11 21:35
-2025-01-10 23:45:09,792 - WARNING - Invalid date format: 2119-Jul-07 21:37
-2025-01-10 23:45:09,792 - WARNING - Invalid date format: 2121-Nov-20 14:04
-2025-01-10 23:45:09,792 - WARNING - Invalid date format: 2122-Sep-01 11:57
-2025-01-10 23:45:09,793 - WARNING - Invalid date format: 2127-Jun-11 13:36
-2025-01-10 23:45:09,793 - WARNING - Invalid date format: 2128-Jun-25 09:16
-2025-01-10 23:45:09,793 - WARNING - Invalid date format: 2131-Aug-21 01:47
-2025-01-10 23:45:09,793 - WARNING - Invalid date format: 2136-Mar-13 06:54
-2025-01-10 23:45:09,793 - WARNING - Invalid date format: 2137-Jun-15 10:22
-2025-01-10 23:45:09,793 - WARNING - Invalid date format: 2138-Jul-13 08:25
-2025-01-10 23:45:09,794 - WARNING - Invalid date format: 2141-Sep-05 21:21
-2025-01-10 23:45:09,794 - WARNING - Invalid date format: 2146-Jun-10 10:19
-2025-01-10 23:45:09,794 - WARNING - Invalid date format: 2147-Jul-01 06:34
-2025-01-10 23:45:09,794 - WARNING - Invalid date format: 2150-Aug-25 22:45
-2025-01-10 23:45:09,794 - WARNING - Invalid date format: 2150-Nov-01 16:14
-2025-01-10 23:45:09,794 - WARNING - Invalid date format: 2156-Jun-18 16:04
-2025-01-10 23:45:09,795 - WARNING - Invalid date format: 2160-Sep-07 23:10
-2025-01-10 23:45:09,795 - WARNING - Invalid date format: 2163-Feb-21 04:22
-2025-01-10 23:45:09,795 - WARNING - Invalid date format: 2163-Apr-10 06:31
-2025-01-10 23:45:09,795 - WARNING - Invalid date format: 2165-Jun-11 02:24
-2025-01-10 23:45:09,795 - WARNING - Invalid date format: 2166-Jul-05 18:55
-2025-01-10 23:45:09,795 - WARNING - Invalid date format: 2169-Aug-30 10:27
-2025-01-10 23:45:09,795 - WARNING - Invalid date format: 2170-Nov-17 06:52
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2174-Jun-12 17:08
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2175-Jun-12 17:27
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2175-Jun-23 19:48
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2178-Aug-17 23:47
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2184-Jun-13 03:43
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2187-Oct-02 02:41
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2188-Sep-03 07:01
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2193-Jun-10 21:52
-2025-01-10 23:45:09,796 - WARNING - Invalid date format: 2194-Jun-27 14:06
-2025-01-10 23:45:09,797 - WARNING - Invalid date format: 2197-Aug-22 00:33
-2025-01-10 23:45:09,797 - WARNING - Invalid date format: 2200-Jan-21 02:09
-2025-01-10 23:45:09,797 - WARNING - Invalid date format: 1929-Jun-09 14:54
-2025-01-10 23:45:09,797 - WARNING - Invalid date format: 1950-May-18 06:48
-2025-01-10 23:45:09,797 - WARNING - Invalid date format: 1963-May-19 23:06
-2025-01-10 23:45:09,797 - WARNING - Invalid date format: 1965-Mar-17 09:33
-2025-01-10 23:45:09,797 - WARNING - Invalid date format: 1976-May-22 19:40
-2025-01-10 23:45:09,798 - WARNING - Invalid date format: 1989-May-27 05:12
-2025-01-10 23:45:09,798 - WARNING - Invalid date format: 2059-Aug-19 22:11
-2025-01-10 23:45:09,798 - WARNING - Invalid date format: 2095-May-29 16:59
-2025-01-10 23:45:09,798 - WARNING - Invalid date format: 2131-Mar-07 17:55
-2025-01-10 23:45:09,798 - WARNING - Invalid date format: 2142-May-21 08:09
-2025-01-10 23:45:09,798 - WARNING - Invalid date format: 2155-May-25 00:50
-2025-01-10 23:45:09,798 - WARNING - Invalid date format: 2166-Dec-13 09:42
-2025-01-10 23:45:09,798 - WARNING - Invalid date format: 2168-May-26 02:13
-2025-01-10 23:45:09,799 - WARNING - Invalid date format: 1901-Aug-23 17:36
-2025-01-10 23:45:09,799 - WARNING - Invalid date format: 1908-Feb-27 21:02
-2025-01-10 23:45:09,799 - WARNING - Invalid date format: 1908-Jun-07 22:48
-2025-01-10 23:45:09,799 - WARNING - Invalid date format: 1908-Aug-31 15:23
-2025-01-10 23:45:09,799 - WARNING - Invalid date format: 1915-Mar-14 16:15
-2025-01-10 23:45:09,799 - WARNING - Invalid date format: 1919-Sep-08 06:12
-2025-01-10 23:45:09,799 - WARNING - Invalid date format: 1922-Feb-27 21:16
-2025-01-10 23:45:09,799 - WARNING - Invalid date format: 1926-Aug-21 06:24
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1933-Mar-11 02:46
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1933-May-08 19:40
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1933-Sep-19 01:31
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1940-Mar-09 21:19
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1944-Sep-02 03:37
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1951-Feb-10 07:22
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1951-Aug-08 15:38
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1958-Mar-18 04:43
-2025-01-10 23:45:09,800 - WARNING - Invalid date format: 1962-Sep-13 21:32
-2025-01-10 23:45:09,801 - WARNING - Invalid date format: 1965-Mar-04 20:24
-2025-01-10 23:45:09,801 - WARNING - Invalid date format: 1969-Aug-27 00:06
-2025-01-10 23:45:09,801 - WARNING - Invalid date format: 1976-Feb-22 11:52
-2025-01-10 23:45:09,801 - WARNING - Invalid date format: 1976-Jun-23 12:31
-2025-01-10 23:45:09,801 - WARNING - Invalid date format: 1983-Mar-16 10:22
-2025-01-10 23:45:09,801 - WARNING - Invalid date format: 1987-Sep-10 22:36
-2025-01-10 23:45:09,801 - WARNING - Invalid date format: 1990-Mar-02 19:44
-2025-01-10 23:45:09,802 - WARNING - Invalid date format: 1994-Aug-25 10:10
-2025-01-10 23:45:09,802 - WARNING - Invalid date format: 2001-Feb-20 23:36
-2025-01-10 23:45:09,803 - WARNING - Invalid date format: 2001-Jun-27 11:35
-2025-01-10 23:45:09,803 - WARNING - Invalid date format: 2008-Mar-17 11:41
-2025-01-10 23:45:09,803 - WARNING - Invalid date format: 2012-Sep-14 02:56
-2025-01-10 23:45:09,803 - WARNING - Invalid date format: 2015-Mar-07 09:37
-2025-01-10 23:45:09,803 - WARNING - Invalid date format: 2019-Aug-31 17:20
-2025-01-10 23:45:09,803 - WARNING - Invalid date format: 2026-Feb-09 02:21
-2025-01-10 23:45:09,803 - WARNING - Invalid date format: 2026-Aug-12 08:35
-2025-01-10 23:45:09,803 - WARNING - Invalid date format: 2033-Mar-14 23:04
-2025-01-10 23:45:09,804 - WARNING - Invalid date format: 2033-Sep-23 08:08
-2025-01-10 23:45:09,804 - WARNING - Invalid date format: 2040-Mar-12 10:58
-2025-01-10 23:45:09,804 - WARNING - Invalid date format: 2044-Sep-06 21:24
-2025-01-10 23:45:09,804 - WARNING - Invalid date format: 2047-Feb-28 15:33
-2025-01-10 23:45:09,804 - WARNING - Invalid date format: 2051-Aug-23 03:35
-2025-01-10 23:45:09,804 - WARNING - Invalid date format: 2058-Mar-04 22:25
-2025-01-10 23:45:09,804 - WARNING - Invalid date format: 2058-May-28 23:59
-2025-01-10 23:45:09,804 - WARNING - Invalid date format: 2058-Sep-11 03:14
-2025-01-10 23:45:09,805 - WARNING - Invalid date format: 2065-Mar-13 19:56
-2025-01-10 23:45:09,805 - WARNING - Invalid date format: 2069-Sep-07 10:06
-2025-01-10 23:45:09,805 - WARNING - Invalid date format: 2072-Feb-28 11:27
-2025-01-10 23:45:09,805 - WARNING - Invalid date format: 2076-Aug-20 09:35
-2025-01-10 23:45:09,805 - WARNING - Invalid date format: 2083-Mar-12 08:35
-2025-01-10 23:45:09,805 - WARNING - Invalid date format: 2083-May-08 07:41
-2025-01-10 23:45:09,805 - WARNING - Invalid date format: 2083-Sep-20 20:56
-2025-01-10 23:45:09,805 - WARNING - Invalid date format: 2090-Mar-11 06:39
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2094-Sep-03 10:34
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2101-Feb-12 10:24
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2101-Aug-07 02:26
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2108-Mar-18 23:57
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2112-Sep-14 05:20
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2115-Mar-06 04:41
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2119-Aug-27 16:11
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2126-Feb-25 01:41
-2025-01-10 23:45:09,806 - WARNING - Invalid date format: 2126-Jun-23 11:31
-2025-01-10 23:45:09,807 - WARNING - Invalid date format: 2133-Mar-18 05:51
-2025-01-10 23:45:09,807 - WARNING - Invalid date format: 2137-Sep-13 19:10
-2025-01-10 23:45:09,807 - WARNING - Invalid date format: 2140-Mar-05 23:55
-2025-01-10 23:45:09,807 - WARNING - Invalid date format: 2144-Aug-29 08:08
-2025-01-10 23:45:09,807 - WARNING - Invalid date format: 2151-Feb-17 11:46
-2025-01-10 23:45:09,807 - WARNING - Invalid date format: 2151-Jul-22 16:37
-2025-01-10 23:45:09,807 - WARNING - Invalid date format: 2158-Mar-20 02:29
-2025-01-10 23:45:09,807 - WARNING - Invalid date format: 2165-Mar-11 12:24
-2025-01-10 23:45:09,808 - WARNING - Invalid date format: 2169-Sep-05 14:32
-2025-01-10 23:45:09,808 - WARNING - Invalid date format: 2172-Feb-28 02:38
-2025-01-10 23:45:09,808 - WARNING - Invalid date format: 2176-Aug-20 12:13
-2025-01-10 23:45:09,808 - WARNING - Invalid date format: 2183-Mar-08 21:14
-2025-01-10 23:45:09,808 - WARNING - Invalid date format: 2183-May-26 05:10
-2025-01-10 23:45:09,808 - WARNING - Invalid date format: 2183-Sep-15 19:32
-2025-01-10 23:45:09,808 - WARNING - Invalid date format: 2190-Mar-16 04:16
-2025-01-10 23:45:09,808 - WARNING - Invalid date format: 2194-Sep-10 09:32
-2025-01-10 23:45:09,809 - WARNING - Invalid date format: 2197-Mar-02 20:06
-2025-01-10 23:45:09,809 - WARNING - Invalid date format: 1929-Jul-19 10:23
-2025-01-10 23:45:09,809 - WARNING - Invalid date format: 1957-Jul-21 08:58
-2025-01-10 23:45:09,809 - WARNING - Invalid date format: 2046-Aug-06 06:42
-2025-01-10 23:45:09,809 - WARNING - Invalid date format: 2074-Aug-03 16:48
-2025-01-10 23:45:09,809 - WARNING - Invalid date format: 2102-Aug-06 04:18
-2025-01-10 23:45:09,809 - WARNING - Invalid date format: 2181-Jul-21 20:31
-2025-01-10 23:45:09,810 - WARNING - Invalid date format: 1908-Aug-04 01:10
-2025-01-10 23:45:09,811 - WARNING - Invalid date format: 1916-Aug-05 18:54
-2025-01-10 23:45:09,811 - WARNING - Invalid date format: 1924-Aug-07 09:59
-2025-01-10 23:45:09,811 - WARNING - Invalid date format: 1932-Aug-08 15:40
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 1940-Aug-09 13:03
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 1948-Aug-10 00:22
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 1956-Aug-09 20:36
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 1964-Aug-09 09:15
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 1972-Aug-08 07:30
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 1980-Aug-06 12:33
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 1988-Aug-04 11:41
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 2008-Jan-24 16:04
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 2016-Jan-22 07:07
-2025-01-10 23:45:09,812 - WARNING - Invalid date format: 2024-Jan-20 20:46
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2032-Jan-20 14:44
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2040-Jan-21 07:02
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2048-Jan-23 02:54
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2076-Aug-05 03:07
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2084-Aug-06 10:11
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2092-Aug-06 19:22
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2100-Aug-07 07:27
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2108-Aug-06 00:25
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2128-Jan-25 11:42
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2136-Jan-22 07:01
-2025-01-10 23:45:09,813 - WARNING - Invalid date format: 2144-Jan-19 14:30
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 2152-Jan-18 00:59
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 2160-Jan-18 06:26
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 2168-Jan-20 08:06
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 2170-Oct-20 11:44
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 2176-Jan-23 02:22
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 2184-Jan-26 00:00
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 2193-Aug-02 00:06
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 1911-Jan-29 19:12
-2025-01-10 23:45:09,814 - WARNING - Invalid date format: 1930-Sep-25 20:53
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1930-Nov-11 22:54
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1932-May-15 03:59
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1941-May-01 09:44
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1946-Jul-02 17:04
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1950-Jun-26 15:50
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1964-Oct-26 03:51
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1966-May-02 02:58
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1968-Apr-15 18:27
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1980-Nov-13 17:15
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1982-May-14 17:13
-2025-01-10 23:45:09,815 - WARNING - Invalid date format: 1986-Jan-22 20:40
-2025-01-10 23:45:09,816 - WARNING - Invalid date format: 2003-Dec-02 16:05
-2025-01-10 23:45:09,816 - WARNING - Invalid date format: 2005-Nov-06 19:15
-2025-01-10 23:45:09,816 - WARNING - Invalid date format: 2007-May-08 15:18
-2025-01-10 23:45:09,816 - WARNING - Invalid date format: 2021-Sep-18 13:57
-2025-01-10 23:45:09,816 - WARNING - Invalid date format: 2037-Nov-15 23:52
-2025-01-10 23:45:09,816 - WARNING - Invalid date format: 2039-Jul-17 03:57
-2025-01-10 23:45:09,816 - WARNING - Invalid date format: 2046-Nov-13 04:49
-2025-01-10 23:45:09,816 - WARNING - Invalid date format: 2048-May-13 23:58
-2025-01-10 23:45:09,817 - WARNING - Invalid date format: 2049-Dec-13 00:24
-2025-01-10 23:45:09,817 - WARNING - Invalid date format: 2057-Jun-06 09:28
-2025-01-10 23:45:09,817 - WARNING - Invalid date format: 2071-Nov-17 19:34
-2025-01-10 23:45:09,817 - WARNING - Invalid date format: 2073-May-20 12:48
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2075-May-17 22:47
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2077-Jan-20 22:01
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2080-Nov-05 09:15
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2082-May-12 11:03
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2087-Jul-23 17:24
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2091-May-06 06:37
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2098-Aug-30 09:52
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2120-Mar-24 04:08
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2141-Oct-10 22:39
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2141-Nov-19 08:49
-2025-01-10 23:45:09,818 - WARNING - Invalid date format: 2143-May-28 07:07
-2025-01-10 23:45:09,819 - WARNING - Invalid date format: 2150-Nov-10 14:06
-2025-01-10 23:45:09,820 - WARNING - Invalid date format: 2152-May-14 23:28
-2025-01-10 23:45:09,821 - WARNING - Invalid date format: 2161-May-06 13:45
-2025-01-10 23:45:09,821 - WARNING - Invalid date format: 2163-Apr-29 13:22
-2025-01-10 23:45:09,821 - WARNING - Invalid date format: 2165-Jan-04 04:12
-2025-01-10 23:45:09,821 - WARNING - Invalid date format: 2184-Oct-06 20:10
-2025-01-10 23:45:09,821 - WARNING - Invalid date format: 2193-Nov-22 21:27
-2025-01-10 23:45:09,821 - WARNING - Invalid date format: 1907-Oct-11 06:15
-2025-01-10 23:45:09,821 - WARNING - Invalid date format: 1914-Mar-29 02:55
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 1931-Apr-06 05:10
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 1948-Apr-05 23:14
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 1965-Feb-02 06:30
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 1965-Apr-06 03:08
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 1982-Apr-05 22:46
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 1999-Apr-01 14:44
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 2016-Mar-27 11:19
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 2033-Mar-23 16:37
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 2043-Aug-24 20:36
-2025-01-10 23:45:09,822 - WARNING - Invalid date format: 2050-Mar-17 21:01
-2025-01-10 23:45:09,823 - WARNING - Invalid date format: 2060-Aug-19 18:18
-2025-01-10 23:45:09,823 - WARNING - Invalid date format: 2077-Aug-17 02:41
-2025-01-10 23:45:09,823 - WARNING - Invalid date format: 2094-Aug-13 08:54
-2025-01-10 23:45:09,823 - WARNING - Invalid date format: 2111-Aug-16 02:17
-2025-01-10 23:45:09,823 - WARNING - Invalid date format: 2128-Aug-22 00:22
-2025-01-10 23:45:09,824 - WARNING - Invalid date format: 2135-Mar-18 01:17
-2025-01-10 23:45:09,824 - WARNING - Invalid date format: 2145-Aug-28 19:43
-2025-01-10 23:45:09,824 - WARNING - Invalid date format: 2152-Mar-28 11:54
-2025-01-10 23:45:09,824 - WARNING - Invalid date format: 2169-Apr-07 18:18
-2025-01-10 23:45:09,824 - WARNING - Invalid date format: 2186-Jul-23 19:33
-2025-01-10 23:45:09,824 - WARNING - Invalid date format: 1909-Nov-13 09:45
-2025-01-10 23:45:09,824 - WARNING - Invalid date format: 1950-Jul-01 14:12
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 1991-Feb-14 20:45
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 2005-Mar-27 11:06
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 2045-Nov-10 19:00
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 2086-Jun-25 13:33
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 2100-Aug-05 06:42
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 2141-Mar-20 05:41
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 2181-Oct-31 23:07
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 2195-Dec-11 06:13
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 1900-May-20 10:57
-2025-01-10 23:45:09,825 - WARNING - Invalid date format: 1905-Dec-23 15:06
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1906-Nov-15 20:22
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1907-Nov-06 00:33
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1908-Feb-09 11:29
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1909-May-04 06:53
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1910-Jul-20 17:47
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1912-Sep-06 13:22
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1915-Nov-11 02:22
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1916-Nov-14 00:32
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1917-Jan-16 05:53
-2025-01-10 23:45:09,826 - WARNING - Invalid date format: 1918-Apr-19 22:35
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1919-Jul-13 21:19
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1925-Nov-22 05:08
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1927-Apr-06 14:31
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1928-Jul-05 03:16
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1931-Oct-12 15:47
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1934-Nov-25 17:13
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1936-Mar-24 03:37
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1937-Jun-24 12:05
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1943-Nov-24 14:43
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1945-Mar-11 09:20
-2025-01-10 23:45:09,827 - WARNING - Invalid date format: 1946-Jun-08 05:41
-2025-01-10 23:45:09,828 - WARNING - Invalid date format: 1949-May-09 12:07
-2025-01-10 23:45:09,828 - WARNING - Invalid date format: 1950-Nov-15 06:35
-2025-01-10 23:45:09,828 - WARNING - Invalid date format: 1952-Nov-20 08:21
-2025-01-10 23:45:09,829 - WARNING - Invalid date format: 1953-Oct-28 15:39
-2025-01-10 23:45:09,829 - WARNING - Invalid date format: 1954-Feb-25 14:53
-2025-01-10 23:45:09,829 - WARNING - Invalid date format: 1955-May-21 11:04
-2025-01-10 23:45:09,829 - WARNING - Invalid date format: 1961-Nov-15 20:54
-2025-01-10 23:45:09,829 - WARNING - Invalid date format: 1962-Nov-06 01:48
-2025-01-10 23:45:09,829 - WARNING - Invalid date format: 1963-Feb-09 10:37
-2025-01-10 23:45:09,829 - WARNING - Invalid date format: 1964-May-04 03:59
-2025-01-10 23:45:09,829 - WARNING - Invalid date format: 1965-Jul-20 16:35
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1969-Dec-15 22:46
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1970-Nov-10 23:28
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1971-Nov-15 08:00
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1972-Jan-15 18:56
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1973-Apr-19 13:59
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1974-Jul-13 19:54
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1976-Aug-29 19:37
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1980-Nov-22 08:09
-2025-01-10 23:45:09,830 - WARNING - Invalid date format: 1982-Apr-06 11:44
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 1983-Jul-06 01:18
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 1989-Nov-25 18:41
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 1991-Mar-25 02:03
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 1992-Jun-24 14:20
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 1995-Oct-06 06:27
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 1998-Nov-24 17:55
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 2000-Mar-11 19:05
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 2001-Jun-08 15:39
-2025-01-10 23:45:09,831 - WARNING - Invalid date format: 2007-Nov-21 10:00
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2008-Oct-28 14:08
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2009-Feb-25 19:47
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2010-May-21 14:08
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2014-Nov-08 00:29
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2016-Nov-16 01:42
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2017-Nov-05 22:35
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2018-Feb-10 01:58
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2018-Dec-11 17:52
-2025-01-10 23:45:09,832 - WARNING - Invalid date format: 2019-May-05 18:25
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2020-Jul-21 01:08
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2025-Nov-11 05:42
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2026-Nov-14 23:14
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2027-Jan-17 19:35
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2028-Apr-20 02:09
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2029-Jul-14 03:35
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2033-Dec-08 22:34
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2035-Nov-23 07:56
-2025-01-10 23:45:09,833 - WARNING - Invalid date format: 2037-Apr-06 18:08
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2038-Jul-06 08:43
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2040-Aug-23 12:20
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2044-Nov-25 18:55
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2046-Mar-25 09:13
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2047-Jun-25 23:32
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2053-Nov-24 20:48
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2055-Mar-13 00:47
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2056-Jun-09 01:44
-2025-01-10 23:45:09,834 - WARNING - Invalid date format: 2059-Sep-29 23:05
-2025-01-10 23:45:09,835 - WARNING - Invalid date format: 2062-Nov-21 15:35
-2025-01-10 23:45:09,835 - WARNING - Invalid date format: 2063-Oct-29 07:30
-2025-01-10 23:45:09,835 - WARNING - Invalid date format: 2064-Feb-27 12:16
-2025-01-10 23:45:09,835 - WARNING - Invalid date format: 2065-May-22 06:54
-2025-01-10 23:45:09,835 - WARNING - Invalid date format: 2071-Nov-17 05:46
-2025-01-10 23:45:09,835 - WARNING - Invalid date format: 2072-Nov-05 20:52
-2025-01-10 23:45:09,835 - WARNING - Invalid date format: 2073-Feb-10 09:43
-2025-01-10 23:45:09,835 - WARNING - Invalid date format: 2074-May-05 21:07
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2075-Jul-22 05:16
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2078-Oct-31 15:30
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2080-Nov-11 08:14
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2081-Nov-14 22:33
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2082-Jan-18 10:27
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2083-Apr-21 09:47
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2084-Jul-14 10:17
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2088-Jul-14 22:18
-2025-01-10 23:45:09,836 - WARNING - Invalid date format: 2090-Nov-23 04:42
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2092-Apr-06 22:42
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2093-Jul-06 11:53
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2097-Dec-02 03:45
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2099-Nov-26 21:06
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2101-Mar-26 09:17
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2102-Jun-27 00:10
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2104-Aug-18 05:48
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2108-Nov-25 21:13
-2025-01-10 23:45:09,837 - WARNING - Invalid date format: 2110-Mar-13 21:23
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2111-Jun-10 19:30
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2117-Nov-22 15:16
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2118-Oct-30 15:05
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2119-Feb-28 05:14
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2120-May-22 23:14
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2123-Sep-23 03:24
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2126-Nov-18 05:31
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2127-Nov-07 23:33
-2025-01-10 23:45:09,838 - WARNING - Invalid date format: 2128-Feb-12 04:28
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2129-May-06 15:05
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2130-Jul-23 05:29
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2135-Nov-13 05:16
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2136-Nov-16 09:34
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2137-Jan-17 15:39
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2138-Apr-21 16:54
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2139-Jul-16 02:00
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2142-Oct-24 13:36
-2025-01-10 23:45:09,839 - WARNING - Invalid date format: 2145-Nov-24 15:54
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2147-Apr-08 02:39
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2148-Jul-06 23:49
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2154-Nov-27 22:50
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2156-Mar-25 05:37
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2157-Jun-25 13:58
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2158-Feb-17 00:53
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2161-Nov-25 10:11
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2163-Nov-26 14:02
-2025-01-10 23:45:09,840 - WARNING - Invalid date format: 2165-Mar-12 09:15
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2166-Jun-08 17:26
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2168-Aug-09 10:02
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2172-Nov-22 03:09
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2173-Oct-31 16:33
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2174-Feb-26 05:47
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2175-May-21 14:15
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2176-Jul-28 18:44
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2181-Nov-17 12:51
-2025-01-10 23:45:09,841 - WARNING - Invalid date format: 2182-Nov-09 07:48
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2183-Feb-09 14:53
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2184-May-04 12:17
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2185-Jul-22 08:36
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2187-Sep-12 17:59
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2190-Nov-12 14:11
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2191-Nov-18 13:22
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2193-Apr-19 19:36
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2194-Jul-15 03:50
-2025-01-10 23:45:09,842 - WARNING - Invalid date format: 2200-Nov-26 13:44
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 1959-Nov-17 08:31
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 1972-Nov-21 21:30
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 1985-Nov-27 21:43
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 2058-Nov-18 16:40
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 2071-Nov-24 07:51
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 2157-Nov-21 17:04
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 2170-Nov-27 11:23
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 1906-Mar-06 00:36
-2025-01-10 23:45:09,843 - WARNING - Invalid date format: 1927-May-03 18:59
-2025-01-10 23:45:09,844 - WARNING - Invalid date format: 1939-Mar-02 11:12
-2025-01-10 23:45:09,844 - WARNING - Invalid date format: 1949-Mar-18 14:44
-2025-01-10 23:45:09,844 - WARNING - Invalid date format: 1951-Jan-10 05:45
-2025-01-10 23:45:09,844 - WARNING - Invalid date format: 1953-Mar-04 06:06
-2025-01-10 23:45:09,844 - WARNING - Invalid date format: 1957-Feb-23 12:38
-2025-01-10 23:45:09,845 - WARNING - Invalid date format: 1961-Feb-10 22:21
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 1962-Dec-07 01:54
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 1965-Feb-11 07:46
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 1969-Feb-13 09:02
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 1973-Feb-13 00:36
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 1977-Feb-20 20:33
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 1981-Mar-02 04:12
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 1985-Mar-09 17:39
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 1989-Mar-20 22:14
-2025-01-10 23:45:09,846 - WARNING - Invalid date format: 2058-Feb-07 18:16
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2062-Feb-24 00:46
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2066-Mar-12 02:54
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2070-Mar-26 14:17
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2092-Sep-17 11:56
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2104-Aug-20 15:40
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2110-Mar-21 08:42
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2114-Feb-25 11:35
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2116-Jul-03 07:01
-2025-01-10 23:45:09,847 - WARNING - Invalid date format: 2118-Jan-24 14:20
-2025-01-10 23:45:09,848 - WARNING - Invalid date format: 2128-Apr-24 06:58
-2025-01-10 23:45:09,848 - WARNING - Invalid date format: 2153-Mar-14 22:17
-2025-01-10 23:45:09,848 - WARNING - Invalid date format: 2180-Apr-01 03:05
-2025-01-10 23:45:09,848 - WARNING - Invalid date format: 1905-Aug-25 21:49
-2025-01-10 23:45:09,848 - WARNING - Invalid date format: 1929-Aug-22 13:40
-2025-01-10 23:45:09,848 - WARNING - Invalid date format: 1953-Aug-21 10:55
-2025-01-10 23:45:09,848 - WARNING - Invalid date format: 1977-Aug-22 02:21
-2025-01-10 23:45:09,848 - WARNING - Invalid date format: 2001-Aug-24 01:57
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 2025-Aug-26 01:05
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 2049-Aug-26 19:32
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 2073-Aug-26 22:05
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 2097-Aug-27 13:47
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 2121-Sep-01 00:58
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 2162-Aug-14 05:10
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 2186-Aug-16 01:42
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 1926-Sep-28 02:47
-2025-01-10 23:45:09,849 - WARNING - Invalid date format: 1989-Oct-10 02:44
-2025-01-10 23:45:09,850 - WARNING - Invalid date format: 2030-Oct-06 07:09
-2025-01-10 23:45:09,850 - WARNING - Invalid date format: 2071-Oct-07 22:28
-2025-01-10 23:45:09,850 - WARNING - Invalid date format: 2131-Sep-24 05:26
-2025-01-10 23:45:09,850 - WARNING - Invalid date format: 2172-Oct-02 09:41
-2025-01-10 23:45:09,850 - WARNING - Invalid date format: 1937-May-28 20:45
-2025-01-10 23:45:09,850 - WARNING - Invalid date format: 1949-May-22 08:44
-2025-01-10 23:45:09,850 - WARNING - Invalid date format: 1961-May-19 05:02
-2025-01-10 23:45:09,851 - WARNING - Invalid date format: 1973-May-12 13:39
-2025-01-10 23:45:09,851 - WARNING - Invalid date format: 2026-May-30 08:25
-2025-01-10 23:45:09,851 - WARNING - Invalid date format: 2038-May-23 09:26
-2025-01-10 23:45:09,851 - WARNING - Invalid date format: 2050-May-20 09:34
-2025-01-10 23:45:09,851 - WARNING - Invalid date format: 2062-May-14 21:01
-2025-01-10 23:45:09,851 - WARNING - Invalid date format: 2115-Jun-01 17:52
-2025-01-10 23:45:09,851 - WARNING - Invalid date format: 2127-May-24 21:51
 2025-01-10 23:45:09,852 - WARNING - Invalid date format: 2139-May-20 15:23
 2025-01-10 23:45:09,852 - WARNING - Invalid date format: 2151-May-10 11:55
 2025-01-10 23:45:09,923 - INFO - Database connection established.
@@ -635,3 +38,265 @@
 2025-01-11 00:02:43,676 - INFO - Database connection established.
 2025-01-11 00:02:48,898 - INFO - Data upserted successfully.
 2025-01-11 00:02:48,901 - INFO - Pipeline completed successfully.
+2025-01-11 00:51:59,228 - INFO - Fetched page: https://api.nasa.gov/neo/rest/v1/neo/browse
+2025-01-11 00:52:00,404 - INFO - Fetched page: https://api.nasa.gov/neo/rest/v1/neo/browse
+2025-01-11 00:52:01,699 - INFO - Fetched page: https://api.nasa.gov/neo/rest/v1/neo/browse
+2025-01-11 00:52:02,893 - INFO - Fetched page: https://api.nasa.gov/neo/rest/v1/neo/browse
+2025-01-11 00:52:04,139 - INFO - Fetched page: https://api.nasa.gov/neo/rest/v1/neo/browse
+2025-01-11 00:52:05,339 - INFO - Fetched page: https://api.nasa.gov/neo/rest/v1/neo/browse
+2025-01-11 01:12:24,464 - INFO - Fetched page: https://api.nasa.gov/neo/rest/v1/neo/browse
+2025-01-11 01:12:25,474 - INFO - Fetched page: https://api.nasa.gov/neo/rest/v1/neo/browse
+2025-01-11 01:12:57,079 - ERROR - Error fetching data from NASA API: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-11 01:13:14,375 - ERROR - Pipeline failed: 'absolute_magnitude_h'
+2025-01-11 09:23:36,947 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=1&size=20
+2025-01-11 09:23:38,135 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=2&size=20
+2025-01-11 09:23:39,453 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=3&size=20
+2025-01-11 09:23:40,656 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=4&size=20
+2025-01-11 09:23:41,918 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=5&size=20
+2025-01-11 09:23:43,078 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=6&size=20
+2025-01-11 09:23:44,270 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=7&size=20
+2025-01-11 09:23:45,464 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=8&size=20
+2025-01-11 09:23:46,576 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=9&size=20
+2025-01-11 09:23:47,692 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=10&size=20
+2025-01-11 09:23:48,848 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=11&size=20
+2025-01-11 09:23:49,872 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=12&size=20
+2025-01-11 09:23:51,025 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=13&size=20
+2025-01-11 09:23:52,187 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=14&size=20
+2025-01-11 09:23:53,401 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=15&size=20
+2025-01-11 09:23:54,703 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=16&size=20
+2025-01-11 09:23:56,145 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=17&size=20
+2025-01-11 09:23:57,352 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=18&size=20
+2025-01-11 10:59:50,304 - ERROR - Error fetching data from NASA API: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+2025-01-11 19:51:23,737 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=1&size=20
+2025-01-11 19:51:25,024 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=2&size=20
+2025-01-11 19:51:26,107 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=3&size=20
+2025-01-11 19:51:27,183 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=4&size=20
+2025-01-11 19:51:28,544 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=5&size=20
+2025-01-11 19:51:29,642 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=6&size=20
+2025-01-11 19:51:30,935 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=7&size=20
+2025-01-11 19:51:32,048 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=8&size=20
+2025-01-11 19:51:33,055 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=9&size=20
+2025-01-11 19:51:34,103 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=10&size=20
+2025-01-11 19:51:35,151 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=11&size=20
+2025-01-11 19:51:36,447 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=12&size=20
+2025-01-11 19:51:37,576 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=13&size=20
+2025-01-11 19:51:38,727 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=14&size=20
+2025-01-11 19:51:39,756 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=15&size=20
+2025-01-11 19:51:41,040 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=16&size=20
+2025-01-11 19:51:42,169 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=17&size=20
+2025-01-11 19:51:43,400 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=18&size=20
+2025-01-11 19:51:44,518 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=19&size=20
+2025-01-11 19:51:45,537 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=20&size=20
+2025-01-11 19:51:46,719 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=21&size=20
+2025-01-11 19:51:47,807 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=22&size=20
+2025-01-11 19:51:49,043 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=23&size=20
+2025-01-11 19:51:50,263 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=24&size=20
+2025-01-11 19:51:51,562 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=25&size=20
+2025-01-11 19:51:52,965 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=26&size=20
+2025-01-11 19:51:54,245 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=27&size=20
+2025-01-11 19:51:55,484 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=28&size=20
+2025-01-11 19:51:57,191 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=29&size=20
+2025-01-11 19:51:58,377 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=30&size=20
+2025-01-11 19:51:59,670 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=31&size=20
+2025-01-11 19:52:00,690 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=32&size=20
+2025-01-11 19:52:01,758 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=33&size=20
+2025-01-11 19:52:03,107 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=34&size=20
+2025-01-11 19:52:04,290 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=35&size=20
+2025-01-11 19:52:05,558 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=36&size=20
+2025-01-11 19:52:06,677 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=37&size=20
+2025-01-11 19:52:07,851 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=38&size=20
+2025-01-11 19:52:08,885 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=39&size=20
+2025-01-11 19:52:10,006 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=40&size=20
+2025-01-11 19:52:10,961 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=41&size=20
+2025-01-11 19:52:11,905 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=42&size=20
+2025-01-11 19:52:12,957 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=43&size=20
+2025-01-11 19:52:14,013 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=44&size=20
+2025-01-11 19:52:15,250 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=45&size=20
+2025-01-11 19:52:16,341 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=46&size=20
+2025-01-11 19:52:17,834 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=47&size=20
+2025-01-11 19:52:18,811 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=48&size=20
+2025-01-11 19:52:20,005 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=49&size=20
+2025-01-11 19:52:21,334 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=50&size=20
+2025-01-11 19:52:22,269 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=51&size=20
+2025-01-11 19:52:23,408 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=52&size=20
+2025-01-11 19:52:24,437 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=53&size=20
+2025-01-11 19:52:25,684 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=54&size=20
+2025-01-11 19:52:26,847 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=55&size=20
+2025-01-11 19:52:28,377 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=56&size=20
+2025-01-11 19:52:29,623 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=57&size=20
+2025-01-11 19:52:30,886 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=58&size=20
+2025-01-11 19:52:32,159 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=59&size=20
+2025-01-11 19:52:33,454 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=60&size=20
+2025-01-11 19:52:34,801 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=61&size=20
+2025-01-11 19:52:35,943 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=62&size=20
+2025-01-11 19:52:37,111 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=63&size=20
+2025-01-11 19:52:38,390 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=64&size=20
+2025-01-11 19:52:39,542 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=65&size=20
+2025-01-11 19:52:40,565 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=66&size=20
+2025-01-11 19:52:41,663 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=67&size=20
+2025-01-11 19:52:42,838 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=68&size=20
+2025-01-11 19:52:44,028 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=69&size=20
+2025-01-11 19:52:45,096 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=70&size=20
+2025-01-11 19:52:46,229 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=71&size=20
+2025-01-11 19:52:47,389 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=72&size=20
+2025-01-11 19:52:48,446 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=73&size=20
+2025-01-11 19:52:49,971 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=74&size=20
+2025-01-11 19:52:51,036 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=75&size=20
+2025-01-11 19:52:52,102 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=76&size=20
+2025-01-11 19:52:53,400 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=77&size=20
+2025-01-11 19:52:54,398 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=78&size=20
+2025-01-11 19:52:55,539 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=79&size=20
+2025-01-11 19:52:56,791 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=80&size=20
+2025-01-11 19:52:58,038 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=81&size=20
+2025-01-11 19:52:59,242 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=82&size=20
+2025-01-11 19:53:00,540 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=83&size=20
+2025-01-11 19:53:01,671 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=84&size=20
+2025-01-11 19:53:02,785 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=85&size=20
+2025-01-11 19:53:03,980 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=86&size=20
+2025-01-11 19:53:04,928 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=87&size=20
+2025-01-11 19:53:06,099 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=88&size=20
+2025-01-11 19:53:07,267 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=89&size=20
+2025-01-11 19:53:08,469 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=90&size=20
+2025-01-11 19:53:09,884 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=91&size=20
+2025-01-11 19:53:11,035 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=92&size=20
+2025-01-11 19:53:12,337 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=93&size=20
+2025-01-11 19:53:13,510 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=94&size=20
+2025-01-11 19:53:14,710 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=95&size=20
+2025-01-11 19:53:16,033 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=96&size=20
+2025-01-11 19:53:17,256 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=97&size=20
+2025-01-11 19:53:18,442 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=98&size=20
+2025-01-11 19:53:19,611 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=99&size=20
+2025-01-11 19:53:20,712 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=100&size=20
+2025-01-11 19:53:21,752 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=101&size=20
+2025-01-11 19:53:22,997 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=102&size=20
+2025-01-11 19:53:24,141 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=103&size=20
+2025-01-11 19:53:25,384 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=104&size=20
+2025-01-11 19:53:26,529 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=105&size=20
+2025-01-11 19:53:27,654 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=106&size=20
+2025-01-11 19:53:28,762 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=107&size=20
+2025-01-11 19:53:29,984 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=108&size=20
+2025-01-11 19:53:31,483 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=109&size=20
+2025-01-11 19:53:32,681 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=110&size=20
+2025-01-11 19:53:33,964 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=111&size=20
+2025-01-11 19:53:35,441 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=112&size=20
+2025-01-11 19:53:36,803 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=113&size=20
+2025-01-11 19:53:38,005 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=114&size=20
+2025-01-11 19:53:39,111 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=115&size=20
+2025-01-11 19:53:40,437 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=116&size=20
+2025-01-11 19:53:41,588 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=117&size=20
+2025-01-11 19:53:42,921 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=118&size=20
+2025-01-11 19:53:44,095 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=119&size=20
+2025-01-11 19:53:45,198 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=120&size=20
+2025-01-11 19:53:46,686 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=121&size=20
+2025-01-11 19:53:48,066 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=122&size=20
+2025-01-11 19:53:49,277 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=123&size=20
+2025-01-11 19:53:50,523 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=124&size=20
+2025-01-11 19:53:51,847 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=125&size=20
+2025-01-11 19:53:52,846 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=126&size=20
+2025-01-11 19:53:54,052 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=127&size=20
+2025-01-11 19:53:55,302 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=128&size=20
+2025-01-11 19:53:56,625 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=129&size=20
+2025-01-11 19:53:57,873 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=130&size=20
+2025-01-11 19:53:59,211 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=131&size=20
+2025-01-11 19:54:00,471 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=132&size=20
+2025-01-11 19:54:01,553 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=133&size=20
+2025-01-11 19:54:02,683 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=134&size=20
+2025-01-11 19:54:03,958 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=135&size=20
+2025-01-11 19:54:05,088 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=136&size=20
+2025-01-11 19:54:06,209 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=137&size=20
+2025-01-11 19:54:07,524 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=138&size=20
+2025-01-11 19:54:08,542 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=139&size=20
+2025-01-11 19:54:09,551 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=140&size=20
+2025-01-11 19:54:10,863 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=141&size=20
+2025-01-11 19:54:12,036 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=142&size=20
+2025-01-11 19:54:13,458 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=143&size=20
+2025-01-11 19:54:14,724 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=144&size=20
+2025-01-11 19:54:15,854 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=145&size=20
+2025-01-11 19:54:17,016 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=146&size=20
+2025-01-11 19:54:18,167 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=147&size=20
+2025-01-11 19:54:19,167 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=148&size=20
+2025-01-11 19:54:20,348 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=149&size=20
+2025-01-11 19:54:21,408 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=150&size=20
+2025-01-11 19:54:22,628 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=151&size=20
+2025-01-11 19:54:23,752 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=152&size=20
+2025-01-11 19:54:24,832 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=153&size=20
+2025-01-11 19:54:26,023 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=154&size=20
+2025-01-11 19:54:27,034 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=155&size=20
+2025-01-11 19:54:27,940 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=156&size=20
+2025-01-11 19:54:29,201 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=157&size=20
+2025-01-11 19:54:30,438 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=158&size=20
+2025-01-11 19:54:31,582 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=159&size=20
+2025-01-11 19:54:32,759 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=160&size=20
+2025-01-11 19:54:34,019 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=161&size=20
+2025-01-11 19:54:35,214 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=162&size=20
+2025-01-11 19:54:36,361 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=163&size=20
+2025-01-11 19:54:37,396 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=164&size=20
+2025-01-11 19:54:38,404 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=165&size=20
+2025-01-11 19:54:39,597 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=166&size=20
+2025-01-11 19:54:40,608 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=167&size=20
+2025-01-11 19:54:41,696 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=168&size=20
+2025-01-11 19:54:42,711 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=169&size=20
+2025-01-11 19:54:43,828 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=170&size=20
+2025-01-11 19:54:44,913 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=171&size=20
+2025-01-11 19:54:45,961 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=172&size=20
+2025-01-11 19:54:47,115 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=173&size=20
+2025-01-11 19:54:48,214 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=174&size=20
+2025-01-11 19:54:49,448 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=175&size=20
+2025-01-11 19:54:50,558 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=176&size=20
+2025-01-11 19:54:51,850 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=177&size=20
+2025-01-11 19:54:53,170 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=178&size=20
+2025-01-11 19:54:54,296 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=179&size=20
+2025-01-11 19:54:55,681 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=180&size=20
+2025-01-11 19:54:56,940 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=181&size=20
+2025-01-11 19:54:58,078 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=182&size=20
+2025-01-11 19:54:59,247 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=183&size=20
+2025-01-11 19:55:00,502 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=184&size=20
+2025-01-11 19:55:01,526 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=185&size=20
+2025-01-11 19:55:02,553 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=186&size=20
+2025-01-11 19:55:03,714 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=187&size=20
+2025-01-11 19:55:04,816 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=188&size=20
+2025-01-11 19:55:05,964 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=189&size=20
+2025-01-11 19:55:07,141 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=190&size=20
+2025-01-11 19:55:08,316 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=191&size=20
+2025-01-11 19:55:09,619 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=192&size=20
+2025-01-11 19:55:10,898 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=193&size=20
+2025-01-11 19:55:12,235 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=194&size=20
+2025-01-11 19:55:13,435 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=195&size=20
+2025-01-11 19:55:14,674 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=196&size=20
+2025-01-11 19:55:15,797 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=197&size=20
+2025-01-11 19:55:16,987 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=198&size=20
+2025-01-11 19:55:18,110 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=199&size=20
+2025-01-11 19:55:19,283 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=200&size=20
+2025-01-11 19:55:20,274 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=201&size=20
+2025-01-11 19:55:21,296 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=202&size=20
+2025-01-11 19:55:22,514 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=203&size=20
+2025-01-11 19:55:23,560 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=204&size=20
+2025-01-11 19:55:24,856 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=205&size=20
+2025-01-11 19:55:25,830 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=206&size=20
+2025-01-11 19:55:26,940 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=207&size=20
+2025-01-11 19:55:28,181 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=208&size=20
+2025-01-11 19:55:29,181 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=209&size=20
+2025-01-11 19:55:30,189 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=210&size=20
+2025-01-11 19:55:31,170 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=211&size=20
+2025-01-11 19:55:32,191 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=212&size=20
+2025-01-11 19:55:33,555 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=213&size=20
+2025-01-11 19:55:34,646 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=214&size=20
+2025-01-11 19:55:35,762 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=215&size=20
+2025-01-11 19:55:36,925 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=216&size=20
+2025-01-11 19:55:38,020 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=217&size=20
+2025-01-11 19:55:39,079 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=218&size=20
+2025-01-11 19:55:40,101 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=219&size=20
+2025-01-11 19:55:41,352 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=220&size=20
+2025-01-11 19:55:42,635 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=221&size=20
+2025-01-11 19:55:43,967 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=222&size=20
+2025-01-11 19:55:45,002 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=223&size=20
+2025-01-11 19:55:46,015 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=224&size=20
+2025-01-11 19:55:47,201 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=225&size=20
+2025-01-11 19:55:48,366 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=226&size=20
+2025-01-11 19:55:49,749 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=227&size=20
+2025-01-11 19:55:51,075 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=228&size=20
+2025-01-11 19:55:52,317 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=229&size=20
+2025-01-11 19:55:54,204 - INFO - Fetched page: http://api.nasa.gov/neo/rest/v1/neo/browse?page=230&size=20
+2025-01-11 20:02:55,311 - ERROR - Error fetching data from NASA API: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-11 20:06:38,417 - INFO - Database connection established.
