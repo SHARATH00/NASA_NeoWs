@@ -14,11 +14,11 @@ This project fetches Near-Earth Object (NEO) data from NASA's API and stores it 
 ## Requirements
 - Python 3.x
 - PostgreSQL
-- Required Python libraries: `requests`, `psycopg2`, `logging`
+- Required Python libraries: `requests`, `pg8000`, `logging`
 
 ## How to Run
 1. Update `config.py` with your API key and database credentials.
-2. Set up the database using provided schema (not included here).
+2. Set up the database using provided schema.
 3. Run the pipeline:
    ```bash
    python main.py
