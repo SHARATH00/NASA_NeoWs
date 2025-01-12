@@ -9,6 +9,7 @@ def fetch_all_neo_data():
     logger = logging.getLogger()
     url = f"{BASE_URL}?api_key={API_KEY}"
     all_data = []  # List to store all results
+    page_count = 0  # Counter to keep track of the number of pages fetched
 
     while url:
         try:
@@ -27,6 +28,14 @@ def fetch_all_neo_data():
             log_url = url.split('&api_key=')[0]
             logger.info(f"Fetched page: {log_url}")
             #logger.info(f"Fetched page: {BASE_URL}")
+
+            # Increment the page count
+            page_count += 1
+            # Break the loop if 500 pages have been fetched
+            if page_count >= 100:
+                logger.info("Fetched 500 pages, stopping further requests.")
+                break
+
         except requests.RequestException as e:
             logger.error(f"Error fetching data from NASA API: {e}")
             break
