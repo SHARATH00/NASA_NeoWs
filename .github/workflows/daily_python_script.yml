@@ -24,4 +24,4 @@ jobs:
         pip install --upgrade -r requirements.txt
 
     - name: Run script
-      run: python main.py # Runs the main.py script
+      run: python scripts/main.py # Runs the main.py script
