@@ -3,6 +3,7 @@ name: Run Python Script Daily
 on:
   schedule:
     - cron: '0 0 * * *' # Triggers the workflow to run at 00:00 UTC every day
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   run-script:
@@ -17,10 +18,10 @@ jobs:
       with:
         python-version: '3.13.1' # Sets up Python 3.13.1 environment
 
-    - name: Check and Install dependencies
+    - name: Install dependencies if not present
       run: |
-        pip freeze > installed.txt
-        pip install --upgrade -r requirements.txt
+        pip install --upgrade pip
+        pip install -r requirements.txt
 
     - name: Run script
       run: python main.py # Runs the main.py script
