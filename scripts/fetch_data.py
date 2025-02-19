@@ -31,10 +31,11 @@ def fetch_all_neo_data():
 
             # Increment the page count
             page_count += 1
+            logger.info(f"Page count: {page_count}")
             # Break the loop if 500 pages have been fetched
-            if page_count >= 100:
-                logger.info("Fetched 500 pages, stopping further requests.")
-                break
+            #if page_count >= 100:
+            #logger.info("Fetched 500 pages, stopping further requests.")
+               # break
 
         except requests.RequestException as e:
             logger.error(f"Error fetching data from NASA API: {e}")
