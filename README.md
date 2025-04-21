@@ -131,6 +131,10 @@ The data stored in the PostgreSQL database is connected to Power BI for visualiz
 ### Example Dashboard
 ![Power BI Dashboard](PowerBI/MainPage.png)
 
+### Power BI File
+You can download the Power BI `.pbix` file [here](PowerBI/NASA_NeoWs.pbix).
+
+
 ## Logging
 Logs are stored in the `logs/` directory. Key activities, such as API requests, data validation, and database operations, are logged for monitoring and debugging.
 
