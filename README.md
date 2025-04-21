@@ -129,7 +129,7 @@ The data stored in the PostgreSQL database is connected to Power BI for visualiz
 - Close-approach data by orbiting body.
 
 ### Example Dashboard
-![Power BI Dashboard](./path/to/dashboard-image.png)
+![Power BI Dashboard](PowerBI/MainPage.png)
 
 ## Logging
 Logs are stored in the `logs/` directory. Key activities, such as API requests, data validation, and database operations, are logged for monitoring and debugging.
@@ -144,8 +144,7 @@ Logs are stored in the `logs/` directory. Key activities, such as API requests, 
 - Implement a retry mechanism for database operations.
 - Add more advanced visualizations in Power BI.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
 ## Contact
-For questions or feedback, please contact [your_email@example.com].
+For questions or feedback, please contact [dopathisharathreddy1122@example.com].
